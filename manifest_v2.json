@@ -1,0 +1,31 @@
+{
+  "item": {
+    "id": "979896620276",
+    "restype": "watchface",
+    "name": "隐藏应用列表",
+    "description": "该版本为赞助版，相较原版去除了强制观看2.5s的赞助页，功能完全一致，如不介意可前往搜索免费原版下载。连点表盘 5 下（可改 10 下）即可进入隐藏管理，把不想在应用列表里看到的第三方应用收起来，也能一键放回；隐藏/移出后按提示重启一次即生效，==隐藏后的应用仍可从本表盘直接唤起打开==",
+    "preview": [
+      "media/28699.png",
+      "media/28695.png"
+    ],
+    "icon": "media/28691.png",
+    "cover": "media/28723.jpg",
+    "author": [
+      {
+        "name": "ys9679",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw6": {
+      "version": "0.0.10",
+      "file_name": "downloads/极简时间Pro.bin",
+      "versionCode": 10
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
